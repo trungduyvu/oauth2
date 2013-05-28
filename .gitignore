@@ -1,6 +1,6 @@
 .rvmrc
 /live
-
+.idea
 ## TEXTMATE
 *.tmproj
 tmtags
